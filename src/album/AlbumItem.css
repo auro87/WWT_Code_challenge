@@ -1,0 +1,20 @@
+.album-item {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem 0.5rem 0 0.5rem;
+}
+
+.album-item > img {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.album-item > span {
+    display: inline-block;
+    margin-left: 10px;
+}
+/*.album-item > h3 {
+    display: inline-block;
+    margin: 0 1rem;
+}*/
